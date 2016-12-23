@@ -1,0 +1,1 @@
+java -jar target/simulator-jar-with-dependencies.jar $1
